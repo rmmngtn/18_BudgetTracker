@@ -1,4 +1,4 @@
-# 18_BudgetTracker
+# BudgetTracker
 
 ## Description
 This application keeps track of your budget (even if your wifi goes out)!
